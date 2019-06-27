@@ -2,7 +2,7 @@ This is the github respository for AI4E - A practical experience
 
 # Resources 
 
-* [Language Understanding Intelligent Service](https://aidemos.microsoft.com/luis): 
+* [Language Understanding Intelligent Service](https://aidemos.microsoft.com/luis){:target="_blank"}: 
 XXX
 
 * [Text Analytics](https://aidemos.microsoft.com/text-analytics): 
