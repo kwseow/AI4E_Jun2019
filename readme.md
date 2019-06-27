@@ -2,9 +2,24 @@ This is the github respository for AI4E - A practical experience
 
 # Resources 
 
-* [Kaggle](https://www.kaggle.com/): 
-A data science site that contains a variety of externally-contributed 
-interesting datasets. You can find all kinds of niche datasets in its 
-master list, from ramen ratings to basketball data to and even Seattle 
-pet licenses.
+* [Language Understanding Intelligent Service](https://aidemos.microsoft.com/luis): 
+XXX
 
+* [Text Analytics](https://aidemos.microsoft.com/text-analytics): 
+XXX
+
+* [Computer vision](https://aidemos.microsoft.com/computer-vision): 
+XXX
+
+* [Video Indexer](https://aidemos.microsoft.com/video-indexer): 
+XXX
+	
+* [AI Route Planner](https://aidemos.microsoft.com/route-planner): 
+XXX
+	
+* [Face and Emotion](https://aidemos.microsoft.com/face-recognition): 
+XXX
+	
+* [Speech Authentication](https://aidemos.microsoft.com/speech-authentication): 
+XXX
+	
